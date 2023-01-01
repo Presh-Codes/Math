@@ -4,6 +4,8 @@ a = math.sqrt(64)
 print(math.ceil(a))
 print(math.floor(a))
 print(int(a))
+b = math.pi
+print(b)
 
 x = min(4, 5, 6, 10, 200)
 print(x)
